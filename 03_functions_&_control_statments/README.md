@@ -1,4 +1,4 @@
-# 2.3 Control statements and functions
+## Control statements and functions
 
 In this section, we are going to talk about control statements and function operations in Go.
 
