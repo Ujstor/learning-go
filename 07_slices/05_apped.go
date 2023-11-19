@@ -31,8 +31,7 @@ func test(costs []cost) {
 	fmt.Println("===== END REPORT =====")
 }
 
-func main() {
-	test([]cost{
+func main() { test([]cost{
 		{0, 1.0},
 		{1, 2.0},
 		{1, 3.1},

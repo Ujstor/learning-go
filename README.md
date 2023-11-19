@@ -9,7 +9,6 @@
   - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Resources](#resources)
-  - [License](#license)
 
 ## Getting Started
 
@@ -44,10 +43,5 @@ Here are some resources to help you learn Go:
 - [Writing An Interpreter In Go](https://interpreterbook.com/): A highly recommended book by Thorsten Ball.
 - [Go by Example](https://gobyexample.com/): A collection of Go examples that demonstrate the language's features.
 - [Go Forums](https://forum.golangbridge.org/): A community-driven forum where you can ask questions and discuss Go-related topics.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
-
 ---
 
